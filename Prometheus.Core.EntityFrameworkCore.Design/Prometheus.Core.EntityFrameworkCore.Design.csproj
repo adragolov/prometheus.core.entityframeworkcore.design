@@ -7,13 +7,14 @@
     <Company>Saorsa Ltd</Company>
     <Description>Entity framework core design time factory used along the Prometheus platform.</Description>
     <NeutralLanguage>en-GB</NeutralLanguage>
-    <RepositoryUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design/tree/release/v1.0.0</RepositoryUrl>
+    <RepositoryUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design/tree/release/v1.0.1</RepositoryUrl>
     <RepositoryType>github</RepositoryType>
     <PackageTags>prometheus entityframeworkcore</PackageTags>
     <PackageProjectUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design</PackageProjectUrl>
     <PackageLicenseUrl>https://en.wikipedia.org/wiki/MIT_License</PackageLicenseUrl>
     <Copyright>Saorsa Ltd</Copyright>
     <PackageIconUrl>https://raw.githubusercontent.com/adragolov/prometheus.core.entityframeworkcore.design/develop/Logo-64x64.png</PackageIconUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
