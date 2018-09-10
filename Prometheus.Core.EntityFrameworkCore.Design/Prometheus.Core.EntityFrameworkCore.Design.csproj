@@ -7,7 +7,7 @@
     <Company>Saorsa Ltd</Company>
     <Description>Entity framework core design time factory used along the Prometheus platform.</Description>
     <NeutralLanguage>en-GB</NeutralLanguage>
-    <RepositoryUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design</RepositoryUrl>
+    <RepositoryUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design/tree/release/v1.0.0</RepositoryUrl>
     <RepositoryType>github</RepositoryType>
     <PackageTags>prometheus entityframeworkcore</PackageTags>
     <PackageProjectUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design</PackageProjectUrl>
