@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Atanas Dragolov</Authors>
+    <Product>Prometheus Platform</Product>
+    <Company>Saorsa Ltd</Company>
+    <Description>Entity framework core design time factory used along the Prometheus platform.</Description>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <RepositoryUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>prometheus entityframeworkcore</PackageTags>
+    <PackageProjectUrl>https://github.com/adragolov/prometheus.core.entityframeworkcore.design</PackageProjectUrl>
+    <PackageLicenseUrl>https://en.wikipedia.org/wiki/MIT_License</PackageLicenseUrl>
+    <Copyright>Saorsa Ltd</Copyright>
+    <PackageIconUrl>https://raw.githubusercontent.com/adragolov/prometheus.core.entityframeworkcore.design/develop/Logo-64x64.png</PackageIconUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="LICENSE" />
+    <None Remove="README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>
